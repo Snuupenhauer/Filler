@@ -1,4 +1,5 @@
-# Not really doing this
+# This is a filler project
+
 Building AI course project 
 Final project for the Building AI course
 
