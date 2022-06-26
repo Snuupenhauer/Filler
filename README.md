@@ -4,7 +4,7 @@
 ## Empty project
 The course is probably bugged so it shows me no completion if I haven't done this optional so here is filler please ignore.
 
-##Summary
+## Summary
 
 Building AI course project
 
