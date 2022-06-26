@@ -1,5 +1,5 @@
 
-# Project Title
+# Not really doing this
 Building AI course project 
 Final project for the Building AI course
 
@@ -10,4 +10,4 @@ Final project for the Building AI course
 Building AI course project
 
 ## Empty project
-The course is probably bugged so it shows me no completion if I haven't done this optional so here is filler please ignore.
+I think the course is probably bugged so it shows me no completion if I haven't done this optional so here is filler please ignore.
